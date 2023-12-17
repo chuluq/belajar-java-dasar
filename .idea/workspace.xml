@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9bfeeaf-a84d-49e4-a90e-75dba4b67775" name="Changes" comment="feat: Hello Java">
-      <change afterPath="$PROJECT_DIR$/src/KonversiNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TipeDataNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d9bfeeaf-a84d-49e4-a90e-75dba4b67775" name="Changes" comment="feat: Number in Java">
+      <change afterPath="$PROJECT_DIR$/src/TipeDataChar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TipeDataChar">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="belajar-java-dasar" />
@@ -47,8 +45,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TipeDataChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TipeDataChar" />
+      <module name="belajar-java-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TipeDataChar" />
         <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
@@ -69,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702781590721</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: Number in Java">
+      <created>1702782663837</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702782663837</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: Hello Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Hello Java" />
+    <MESSAGE value="feat: Number in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Number in Java" />
   </component>
 </project>
